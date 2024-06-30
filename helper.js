@@ -1,7 +1,7 @@
 const fetch = require("node-fetch");
 
 const apikey = "brdmxpks5qki6szi";
-const rdapikey = "KYMQADG5MEENUID6F727NJYBQZ7XFFL2NOEH7J7W4EPBAEMFYNBA";
+const rdapikey = "PSWDXUHUVGK666NFO4O66FGALRJAJ63NRL7JY5BIUJ7ZP2XWZ2HA";
 
 let checkPremiumizeRes = (res = {}) => {
   if ("status" in res) {
